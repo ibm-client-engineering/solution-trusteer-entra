@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1942],{1188:s=>{s.exports=JSON.parse('{"label":"sprint","permalink":"/solution-trusteer-entra/flight-logs/tags/sprint","allTagsPath":"/solution-trusteer-entra/flight-logs/tags","count":1,"unlisted":false}')}}]);
